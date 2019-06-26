@@ -4,7 +4,7 @@ Project brand assets and guidelines for Findmyguides
 
 | Name       | SVG                                                                                                                                               |
 |:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Light Blue | <a href="svg/fmg_blue_light.svg"><img src="svg/fmg_blue_light.svg" width="160"></a> |
+| Light Blue | <a href="svg/fmg_blue_light.svg"><img src="svg/fmg_blue_light.svg" width="320"></a> |
 | Navy Blue  | <a href="svg/fmg_blue_navy.svg"><img src="svg/fmg_blue_navy.svg" width="320"></a>   |
 | White      | <a href="svg/fmg_white.svg"><img src="svg/fmg_white.svg" width="320"></a>           |
 | Black      | <a href="svg/fmg_black.svg"><img src="svg/fmg_black.svg" width="320"></a>           |
