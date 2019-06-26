@@ -4,11 +4,11 @@ Project brand assets and guidelines for Findmyguides
 
 | Name       | SVG                                                                                                                                               |
 |:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Original   | <a href="svg/fmg_original.svg"><img src="https://rawgit.com/Bouhnosaure/find-my-guides-branding/master/svg/fmg_original.svg" width="160"></a>     |
-| Light Blue | <a href="svg/fmg_blue_light.svg"><img src="https://rawgit.com/Bouhnosaure/find-my-guides-branding/master/svg/fmg_blue_light.svg" width="160"></a> |
-| Navy Blue  | <a href="svg/fmg_blue_navy.svg"><img src="https://rawgit.com/Bouhnosaure/find-my-guides-branding/master/svg/fmg_blue_navy.svg" width="320"></a>   |
-| White      | <a href="svg/fmg_white.svg"><img src="https://rawgit.com/Bouhnosaure/find-my-guides-branding/master/svg/fmg_white.svg" width="320"></a>           |
-| Black      | <a href="svg/fmg_black.svg"><img src="https://rawgit.com/Bouhnosaure/find-my-guides-branding/master/svg/fmg_black.svg" width="320"></a>           |
+| Original   | <a href="svg/fmg_original.svg"><img src="svg/fmg_original.svg" width="160"></a>     |
+| Light Blue | <a href="svg/fmg_blue_light.svg"><img src="svg/fmg_blue_light.svg" width="160"></a> |
+| Navy Blue  | <a href="svg/fmg_blue_navy.svg"><img src="svg/fmg_blue_navy.svg" width="320"></a>   |
+| White      | <a href="svg/fmg_white.svg"><img src="svg/fmg_white.svg" width="320"></a>           |
+| Black      | <a href="svg/fmg_black.svg"><img src="svg/fmg_black.svg" width="320"></a>           |
 
 Color Palette
 -------------
